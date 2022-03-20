@@ -1,2 +1,2 @@
 # ROS-motor-control
-Use Arduino + ROS to control stepper motor (driver: A4988).
+Use Arduino + ROS to control stepper motors (driver: A4988).
